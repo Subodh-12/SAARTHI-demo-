@@ -1,0 +1,277 @@
+{
+  "chapter_id": "ch002",
+  "subject": "science",
+  "grade": "class9",
+  "title_or": "ଗତି - ସମୟ ଗଣନା",
+  "title_en": "Motion - Measurement",
+  "summary_or": "ବସ୍ତୁର ଗତି, ବେଗ, ତ୍ୱରଣ ଓ ସମୟ ମାପ।",
+  "source_refs": [
+    "NCERT Class 9 Science Chapter 8 (Odia summary, original notes aligned to syllabus)"
+  ],
+  "concepts": [
+    {
+      "concept_id": "c0004",
+      "title_or": "ଗତି ଓ ବିସ୍ଥାପନ",
+      "title_en": "Motion and Displacement",
+      "summary_or": "ବସ୍ତୁର ସ୍ଥାନ ପରିବର୍ତ୍ତନ ଗତି; ଆରମ୍ଭ ଓ ଶେଷ ବିନ୍ଦୁ ମଧ୍ୟରେ ସିଧା ଦୂରତା ବିସ୍ଥାପନ।",
+      "prerequisites": [],
+      "source_refs": [
+        "ch02 §8.2"
+      ]
+    },
+    {
+      "concept_id": "c0005",
+      "title_or": "ବେଗ",
+      "title_en": "Speed and Velocity",
+      "summary_or": "ଏକକ ସମୟରେ ଅତିକ୍ରମ ଦୂରତା ବେଗ; ଦିଗ ବିଶିଷ୍ଟ ବେଗ ହେଉଛି ବେଗତା।",
+      "prerequisites": [
+        "c0004"
+      ],
+      "source_refs": [
+        "ch02 §8.3"
+      ]
+    },
+    {
+      "concept_id": "c0006",
+      "title_or": "ତ୍ୱରଣ",
+      "title_en": "Acceleration",
+      "summary_or": "ବେଗର ପରିବର୍ତ୍ତନ ହାର ହେଉଛି ତ୍ୱରଣ।",
+      "prerequisites": [
+        "c0005"
+      ],
+      "source_refs": [
+        "ch02 §8.4"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "chunk_ch02_c0004_01",
+      "concept_id": "c0004",
+      "ordinal": 1,
+      "text_or": "ଯଦି ଗୋଟିଏ ବସ୍ତୁର ସ୍ଥାନ ସମୟ ସହ ପରିବର୍ତ୍ତନ ହୁଏ, ତେବେ ତାହା ଗତି (motion) ରେ ଅଛି ବୋଲି କହିବା। ବସ୍ତୁ ଗତିରେ ଥିବା ସମୟରେ ଯେତେ ଦୂର ଅତିକ୍ରମ କରେ ତାହାକୁ ଦୂରତା (distance) କୁହାଯାଏ। ଆରମ୍ଭ ସ୍ଥାନରୁ ଶେଷ ସ୍ଥାନ ଯାଏ ସିଧା ରେଖା ଦୂରତାକୁ ବିସ୍ଥାପନ (displacement) କୁହାଯାଏ। ବିସ୍ଥାପନ ଏକ ଭେକ୍ଟର ରାଶି - ଏହାର ମାନ ଓ ଦିଗ ଉଭୟ ଅଛି। ବସ୍ତୁ ଗୋଲାକାର ପଥରେ ଗସ୍ତ କଲେ ବିସ୍ଥାପନ ଶୂନ୍ୟ ହୋଇପାରେ, କିନ୍ତୁ ଦୂରତା ଶୂନ୍ୟ ନୁହେଁ।",
+      "source_ref": "ch02 §8.2",
+      "glossary_refs": [
+        "motion",
+        "distance",
+        "displacement",
+        "vector"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch02_c0004_02",
+      "concept_id": "c0004",
+      "ordinal": 2,
+      "text_or": "ବିସ୍ଥାପନର ଏକକ (SI unit) ହେଉଛି ମିଟର (m)। ବସ୍ତୁ ଯଦି ସିଧା ରେଖାରେ ଗସ୍ତ କରେ, ତେବେ ବିସ୍ଥାପନ ଓ ଦୂରତା ସମାନ। କିନ୍ତୁ ବସ୍ତୁ ବକ୍ର ପଥରେ ଗସ୍ତ କଲେ ବିସ୍ଥାପନ ଦୂରତାଠାରୁ କମ ହୋଇପାରେ। ଉଦାହରଣ ସ୍ୱରୂପ, ଗୋଟିଏ ବସ୍ତୁ ୫ ମିଟର ସାମ୍ନା ଓ ୩ ମିଟର ପଛକୁ ଗସ୍ତ କଲେ, ଦୂରତା ୮ ମିଟର, କିନ୍ତୁ ବିସ୍ଥାପନ ୨ ମିଟର (ସାମ୍ନା)।",
+      "source_ref": "ch02 §8.2",
+      "glossary_refs": [
+        "meter",
+        "displacement",
+        "distance"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch02_c0005_01",
+      "concept_id": "c0005",
+      "ordinal": 1,
+      "text_or": "ବସ୍ତୁ ଦ୍ୱାରା ଏକକ ସମୟରେ ଅତିକ୍ରମ କରାଯାଇ ଦୂରତାକୁ ବସ୍ତୁର ବେଗ (speed) କୁହାଯାଏ। ବେଗର SI ଏକକ ମିଟର ପ୍ରତି ସେକେଣ୍ଡ (m/s)। ବସ୍ଥାପନର ପରିବର୍ତ୍ତନ ହାରକୁ ବେଗତା (velocity) କୁହାଯାଏ — ଏହା ଏକ ଭେକ୍ଟର ରାଶି ଓ ଏହାର ଦିଗ ମଧ୍ୟରେ ବିସ୍ଥାପନ ଦିଗ ସହିତ ସମାନ। ବସ୍ତୁର ବେଗତା = ବିସ୍ଥାପନ / ସମୟ। ଯଦି ବେଗତା ସମୟ ସହ ସ୍ଥିର ନୁହେଁ, ତେବେ ତାହାକୁ ଅସମାନ ବେଗତା (non-uniform velocity) କୁହାଯାଏ।",
+      "source_ref": "ch02 §8.3",
+      "glossary_refs": [
+        "speed",
+        "velocity",
+        "uniform motion"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch02_c0005_02",
+      "concept_id": "c0005",
+      "ordinal": 2,
+      "text_or": "ବସ୍ତୁ ଯଦି ସମାନ ସମୟ ଅନ୍ତରରେ ସମାନ ଦୂରତା ଅତିକ୍ରମ କରେ, ତେବେ ତାହାର ବେଗ ସ୍ଥିର — ଏହାକୁ ସମାନ ବେଗ (uniform speed) କୁହାଯାଏ। ବାସ୍ତବ ଜୀବନରେ ଅଧିକାଂଶ ବସ୍ତୁ ଅସମାନ ବେଗରେ ଗତି କରନ୍ତି। ସେହି ସ୍ଥଳରେ ଆମେ ହାରାହାରି ବେଗ (average speed) ବ୍ୟବହାର କରୁ — ସମୁଦାୟ ଦୂରତା ବିଭାଜିତ ସମୟ ଦ୍ୱାରା। ଉଦାହରଣ ସ୍ୱରୂପ, ଗୋଟିଏ କାର ୧୦୦ କିଲୋମିଟର ୪ ଘଣ୍ଟରେ ଅତିକ୍ରମ କଲେ, ହାରାହାରି ବେଗ = ୫୦ କିମି/ଘଣ୍ଟ।",
+      "source_ref": "ch02 §8.3",
+      "glossary_refs": [
+        "average speed",
+        "uniform speed",
+        "non-uniform motion"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch02_c0006_01",
+      "concept_id": "c0006",
+      "ordinal": 1,
+      "text_or": "ବେଗତାର ପରିବର୍ତ୍ତନ ହାରକୁ ତ୍ୱରଣ (acceleration) କୁହାଯାଏ। ତ୍ୱରଣର SI ଏକକ ମିଟର ପ୍ରତି ସେକେଣ୍ଡ ବର୍ଗ (m/s²)। ଯଦି ବେଗତା ବଢେ, ତ୍ୱରଣ ସମାନ; ଯଦି ବେଗତା କମେ, ତ୍ୱରଣ ଋଣାତ୍ମକ (deceleration)। ତ୍ୱରଣ = (ଶେଷ ବେଗତା - ଆରମ୍ଭ ବେଗତା) / ସମୟ। ଯଦି ବସ୍ତୁ ସ୍ଥିର ତ୍ୱରଣରେ ଗତି କରେ, ତେବେ ବେଗତା ସମୟ ସହ ସମାନ ଭାବେ ବଢେ।",
+      "source_ref": "ch02 §8.4",
+      "glossary_refs": [
+        "acceleration",
+        "deceleration",
+        "meter per second squared"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch02_c0006_02",
+      "concept_id": "c0006",
+      "ordinal": 2,
+      "text_or": "ସ୍ଥିର ତ୍ୱରଣର ଗତି ପାଇଁ ସମୀକରଣ: v = u + at, ଯେଉଁଥିରେ v ଶେଷ ବେଗତା, u ଆରମ୍ଭ ବେଗତା, a ତ୍ୱରଣ, t ସମୟ। ଦୂରତା ସମୀକରଣ: s = ut + (1/2)at²। ବର୍ଗ ନିୟମ: v² - u² = 2as। ଏହି ସମୀକରଣଗୁଡ଼ିକ କେବଳ ସ୍ଥିର ତ୍ୱରଣ ବା ନିର୍ଦେଶନ ପାଇଁ ପ୍ରଯୁଜ୍ୟ। ଉଦାହରଣ ସ୍ୱରୂପ, ଗୋଟିଏ କାର ୧୦ m/sରୁ ୩୦ m/s କୁ ୫ ସେକେଣ୍ଡରେ ଗଲେ, ତ୍ୱରଣ = (୩୦ - ୧୦)/୫ = ୪ m/s²।",
+      "source_ref": "ch02 §8.4",
+      "glossary_refs": [
+        "equations of motion",
+        "uniform acceleration"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "q_ch02_c0004_01",
+      "concept_id": "c0004",
+      "qtype": "mcq",
+      "prompt_or": "ବସ୍ତୁ ଗୋଲାକାର ପଥରେ ୫ ମିଟର ଗସ୍ତ କଲେ ବିସ୍ଥାପନ କେତେ?",
+      "options": [
+        "୫ ମିଟର",
+        "୦ ମିଟର",
+        "୧.୫ ମିଟର",
+        "୧୦ ମିଟର"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ବସ୍ତୁ ଆରମ୍ଭ ସ୍ଥାନକୁ ଫେରିଗଲେ ବିସ୍ଥାପନ ଶୂନ୍ୟ।",
+      "difficulty": "medium",
+      "misconception_tag": "displacement_zero_in_circular",
+      "source_ref": "ch02 §8.2"
+    },
+    {
+      "question_id": "q_ch02_c0004_02",
+      "concept_id": "c0004",
+      "qtype": "mcq",
+      "prompt_or": "ବିସ୍ଥାପନର SI ଏକକ କଣ?",
+      "options": [
+        "ସେଣ୍ଟିମିଟର",
+        "କିଲୋମିଟର",
+        "ମିଟର",
+        "ମିଲିମିଟର"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ବିସ୍ଥାପନର SI ଏକକ ମିଟର।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.2"
+    },
+    {
+      "question_id": "q_ch02_c0004_03",
+      "concept_id": "c0004",
+      "qtype": "short_answer",
+      "prompt_or": "ଦୂରତା ଓ ବିସ୍ଥାପନ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ଲେଖ।",
+      "rubric_or": "ଦୂରତା ସ୍କାଲାର, ବିସ୍ଥାପନ ଭେକ୍ଟର; ବିସ୍ଥାପନ ଶୂନ୍ୟ ହୋଇପାରେ କିନ୍ତୁ ଦୂରତା ନୁହେଁ।",
+      "expected_concepts": [
+        "distance",
+        "displacement",
+        "scalar",
+        "vector"
+      ],
+      "explanation_or": "ଦୂରତା ସ୍କାଲାର (କେବଳ ମାନ), ବିସ୍ଥାପନ ଭେକ୍ଟର (ମାନ+ଦିଗ)।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.2"
+    },
+    {
+      "question_id": "q_ch02_c0005_01",
+      "concept_id": "c0005",
+      "qtype": "mcq",
+      "prompt_or": "ବେଗତାର SI ଏକକ କଣ?",
+      "options": [
+        "m/s",
+        "km/h",
+        "m/s²",
+        "cm/s"
+      ],
+      "correct_option": 0,
+      "explanation_or": "ବେଗତାର SI ଏକକ ମିଟର ପ୍ରତି ସେକେଣ୍ଡ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.3"
+    },
+    {
+      "question_id": "q_ch02_c0005_02",
+      "concept_id": "c0005",
+      "qtype": "mcq",
+      "prompt_or": "ଗୋଟିଏ କାର ୧୨୦ କିମି ୨ ଘଣ୍ଟରେ — ହାରାହାରି ବେଗ କେତେ?",
+      "options": [
+        "୬୦ କିମି/ଘଣ୍ଟ",
+        "୧୨୦ କିମି/ଘଣ୍ଟ",
+        "୨୪୦ କିମି/ଘଣ୍ଟ",
+        "୧୨୦ କିମି/ଘଣ୍ଟ"
+      ],
+      "correct_option": 0,
+      "explanation_or": "୧୨୦/୨ = ୬୦ କିମି/ଘଣ୍ଟ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.3"
+    },
+    {
+      "question_id": "q_ch02_c0005_03",
+      "concept_id": "c0005",
+      "qtype": "short_answer",
+      "prompt_or": "ବେଗ ଓ ବେଗତା ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ ଲେଖ।",
+      "rubric_or": "ବେଗ ସ୍କାଲାର, ବେଗତା ଭେକ୍ଟର (ମାନ+ଦିଗ)।",
+      "expected_concepts": [
+        "speed",
+        "velocity",
+        "scalar",
+        "vector"
+      ],
+      "explanation_or": "ବେଗ କେବଳ ମାନ; ବେଗତା ମାନ ଓ ଦିଗ ଉଭୟ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.3"
+    },
+    {
+      "question_id": "q_ch02_c0006_01",
+      "concept_id": "c0006",
+      "qtype": "mcq",
+      "prompt_or": "ତ୍ୱରଣର SI ଏକକ କଣ?",
+      "options": [
+        "m/s",
+        "m/s²",
+        "km/h",
+        "m²/s"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ତ୍ୱରଣର SI ଏକକ ମିଟର ପ୍ରତି ସେକେଣ୍ଡ ବର୍ଗ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.4"
+    },
+    {
+      "question_id": "q_ch02_c0006_02",
+      "concept_id": "c0006",
+      "qtype": "mcq",
+      "prompt_or": "ଗୋଟିଏ କାର ୧୦ m/sରୁ ୩୦ m/s କୁ ୫ ସେକେଣ୍ଡରେ — ତ୍ୱରଣ କେତେ?",
+      "options": [
+        "୨ m/s²",
+        "୪ m/s²",
+        "୬ m/s²",
+        "୧୦ m/s²"
+      ],
+      "correct_option": 1,
+      "explanation_or": "(୩୦-୧୦)/୫ = ୪ m/s²।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.4"
+    },
+    {
+      "question_id": "q_ch02_c0006_03",
+      "concept_id": "c0006",
+      "qtype": "short_answer",
+      "prompt_or": "ସ୍ଥିର ତ୍ୱରଣର ଗତି ପାଇଁ ସମୀକରଣ v = u + at ଲେଖ ଓ ପ୍ରତ୍ୟେକ ପଦ ବ୍ୟାଖ୍ୟା କର।",
+      "rubric_or": "v=ଶେଷ ବେଗତା, u=ଆରମ୍ଭ ବେଗତା, a=ତ୍ୱରଣ, t=ସମୟ।",
+      "expected_concepts": [
+        "v",
+        "u",
+        "a",
+        "t",
+        "uniform acceleration"
+      ],
+      "explanation_or": "v = u + at, ଯେଉଁ v ଶେଷ ବେଗତା, u ଆରମ୍ଭ ବେଗତା, a ତ୍ୱରଣ, t ସମୟ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch02 §8.4"
+    }
+  ]
+}

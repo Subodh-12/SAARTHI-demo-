@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  font-synthesis: none;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: "Noto Sans Oriya", "Noto Sans", system-ui, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+/* Large touch targets on shared low-end phones */
+button, a {
+  min-height: 44px;
+  font-size: 1rem;
+}
+
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 3px solid #0c8aeb;
+  outline-offset: 2px;
+}
+
+.card {
+  @apply bg-white rounded-xl shadow-sm p-4 border border-slate-200;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center px-4 py-3 rounded-lg
+         bg-saarthi-600 text-white font-semibold shadow-sm
+         disabled:opacity-50 disabled:cursor-not-allowed
+         hover:bg-saarthi-700 transition;
+}
+
+.btn-secondary {
+  @apply inline-flex items-center justify-center px-4 py-3 rounded-lg
+         bg-slate-100 text-slate-800 font-semibold border border-slate-300
+         hover:bg-slate-200 transition;
+}
+
+.option-btn {
+  @apply w-full text-left px-4 py-3 rounded-lg border border-slate-300
+         bg-white hover:bg-slate-50 disabled:opacity-60
+         text-base;
+}
+
+.option-correct {
+  @apply bg-emerald-50 border-emerald-500 text-emerald-900;
+}
+
+.option-incorrect {
+  @apply bg-rose-50 border-rose-500 text-rose-900;
+}
+
+.option-selected {
+  @apply border-saarthi-500 bg-saarthi-50;
+}
+
+.banner-ok { @apply bg-emerald-50 text-emerald-900 border-emerald-200; }
+.banner-warn { @apply bg-amber-50 text-amber-900 border-amber-200; }
+.banner-err { @apply bg-rose-50 text-rose-900 border-rose-200; }
+.banner-info { @apply bg-saarthi-50 text-saarthi-900 border-saarthi-200; }
+
+.odia { font-feature-settings: "kern" 1, "liga" 1; }

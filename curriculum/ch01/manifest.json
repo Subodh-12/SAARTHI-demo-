@@ -1,0 +1,329 @@
+{
+  "chapter_id": "ch001",
+  "subject": "science",
+  "grade": "class9",
+  "title_or": "ଆମ ଚାରିପଟ୍ର",
+  "title_en": "Matter in Our Surroundings",
+  "summary_or": "ବିଜ୍ଞାନ ଶିଖିବା — ପଦାର୍ଥଙ୍କ ସ୍ଥିତି, ଗୁଣ ଏବଂ ଭୌତିକ ପରିବର୍ତନ।",
+  "source_refs": [
+    "NCERT Class 9 Science Chapter 1 (Odia summary, original notes aligned to syllabus)"
+  ],
+  "concepts": [
+    {
+      "concept_id": "c0001",
+      "title_or": "ପଦାର୍ଥଙ୍କ ସ୍ଥିତି",
+      "title_en": "States of Matter",
+      "summary_or": "ପଦାର୍ଥ ତିନିଗୋଟି ମୁଖ୍ୟ ସ୍ଥିତିରେ ଅଛି: କଠିନ, ତରଳ ଏବଂ ଗ୍ୟାସ।",
+      "prerequisites": [],
+      "source_refs": [
+        "ch01 §1.2"
+      ]
+    },
+    {
+      "concept_id": "c0002",
+      "title_or": "ଘନତ୍ୱ",
+      "title_en": "Density",
+      "summary_or": "ଘନତ୍ୱ ହେଉଛି ଏକକ ଆୟତନରେ ଥିବା ପଦାର୍ଥଙ୍କ ପରିମାଣ।",
+      "prerequisites": [
+        "c0001"
+      ],
+      "source_refs": [
+        "ch01 §1.3"
+      ]
+    },
+    {
+      "concept_id": "c0003",
+      "title_or": "ଅବସ୍ଥିତି ପରିବର୍ତନ",
+      "title_en": "Changes of State",
+      "summary_or": "ଉତ୍ତାପ୍ତ, ବାଷ୍ପୀକରଣ, ଘନୀଭବନ ଓ ସଂଘନୀଭବନ — ଏହି ଚାରିଟି ପ୍ରକ୍ରିୟା।",
+      "prerequisites": [
+        "c0002"
+      ],
+      "source_refs": [
+        "ch01 §1.4"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "chunk_ch01_c0001_01",
+      "concept_id": "c0001",
+      "ordinal": 1,
+      "text_or": "ପଦାର୍ଥ ହେଉଛି ସେତେ ସବୁ ଯାହାର ଗୁଣ ଅଛି ଏବଂ ଯାହା ଆମକୁ ଅନୁଭବ ହୋଇପାରେ। ଆମ ଚାରିପଟ୍ରରେ ଥିବା ପ୍ରତ୍ୟେକ ବସ୍ତୁ — ପଥର, ପାଣି, ବାୟୁ — ପଦାର୍ଥର ଉଦାହରଣ। ପଦାର୍ଥଙ୍କ ତିନୋଟି ମୁଖ୍ୟ ସ୍ଥିତି ଅଛି: କଠିନ (solid), ତରଳ (liquid), ଏବଂ ଗ୍ୟାସ (gas)। କଠିନ ପଦାର୍ଥରେ କଣିକା ଗୁଡିକ ଖୁବ ନିକଟରେ ଥାଆନ୍ତି ଓ ସେମାନଙ୍କ ମଧ୍ୟରେ ଆକର୍ଷଣ ବଳ ପ୍ରବଳ ଥାଏ। ତରଳ ପଦାର୍ଥରେ କଣିକା ମଧ୍ୟମ ଦୂରତାରେ ଥାଆନ୍ତି, ଆକର୍ଷଣ କମ୍ ଥାଏ। ଗ୍ୟାସରେ କଣିକା ଦୂରରେ ଥାଆନ୍ତି ଓ ମୁକ୍ତ ଭାବରେ ଗତି କରନ୍ତି।",
+      "source_ref": "ch01 §1.2",
+      "glossary_refs": [
+        "solid",
+        "liquid",
+        "gas",
+        "particle"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch01_c0001_02",
+      "concept_id": "c0001",
+      "ordinal": 2,
+      "text_or": "କଠିନ ପଦାର୍ଥର ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ଓ ଆୟତନ ଥାଏ। ତରଳ ପଦାର୍ଥର ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ ଥାଏ କିନ୍ତୁ ଆକାର ନାହିଁ — ସେ ଯେଉଁ ପାତ୍ରରେ ରଖାଯାଏ ସେହି ଆକାର ନିଏ। ଗ୍ୟାସର ଆକାର କିମ୍ବା ଆୟତନ ନିର୍ଦ୍ଦିଷ୍ଟ ନୁହେଁ — ସେ ସବୁ ଉପଲବ୍ଧ ସ୍ଥାନ ପୂରଣ କରେ। ଏହି ପାର୍ଥକ୍ୟ କଣିକା ମଧ୍ୟରେ ଥିବା ଆନ୍ତରାଳ ଏବଂ ଆକର୍ଷଣ ବଳ ଉପରେ ନିର୍ଭର କରେ। ଅଣୁ ପରମାଣୁ ସ୍ତରରେ, କଠିନ ପଦାର୍ଥରେ କଣିକା କମ୍ପନ କରନ୍ତି ମାତ୍ର ସ୍ଥାନ ପରିବର୍ତ୍ତନ କରନ୍ତି ନାହିଁ — କେବଳ ଯଥାର୍ଥ ଉତ୍ତାପ୍ତରେ ସେମାନଙ୍କ ଗତି ବଢେ।",
+      "source_ref": "ch01 §1.2",
+      "glossary_refs": [
+        "shape",
+        "volume",
+        "temperature"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch01_c0002_01",
+      "concept_id": "c0002",
+      "ordinal": 1,
+      "text_or": "ଘନତ୍ୱ ହେଉଛି ଏକକ ଆୟତନରେ ଥିବା ପଦାର୍ଥଙ୍କ ପରିମାଣ, ଅର୍ଥାତ୍ ଘନତ୍ୱ = ଭର / ଆୟତନ। ଘନତ୍ୱର ଏସଆଇ ଏକକ ହେଉଛି କିଲୋଗ୍ରାମ ପ୍ରତି ଘନ ମିଟର (kg/m³)। ଅପେକ୍ଷା ଘନତ୍ୱ ବ୍ୟବହାର କରାଯାଏ ପଦାର୍ଥ ଉପରେ ନିର୍ଭର କରେ ନାହିଁ, ଏହା କେବଳ ପଦାର୍ଥଙ୍କ ପ୍ରକାର ଉପରେ ନିର୍ଭର। ଉଦାହରଣ ସ୍ୱରୂପ, ଲୁହ ତରଳ ପଦାର୍ଥର ଘନତ୍ୱ ହେଉଛି ଲୁହର ଘନତ୍ୱ — ଏହା ତରଳ ଆକାର ଉପରେ ନିର୍ଭର କରେ ନାହିଁ।",
+      "source_ref": "ch01 §1.3",
+      "glossary_refs": [
+        "density",
+        "mass",
+        "volume"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch01_c0002_02",
+      "concept_id": "c0002",
+      "ordinal": 2,
+      "text_or": "ଅପେକ୍ଷା ଘନତ୍ୱ (relative density) ହେଉଛି କୌଣସି ପଦାର୍ଥର ଘନତ୍ୱ ଓ ଜଳର ଘନତ୍ୱର ଅନୁପାତ। ଅପେକ୍ଷା ଘନତ୍ୱର କୌଣସି ଏକକ ନାହିଁ — ଏହା ଏକ ଅନୁପାତ ମାତ୍ର। ଯଦି କୌଣସି ବସ୍ତୁର ଅପେକ୍ଷା ଘନତ୍ୱ ୧୩.୬ କିମ୍ବା ଅଧିକ, ସେ ବସ୍ତୁ ଜଳରେ ବସିଯିବ। ଏହି ନିୟମ ଆମକୁ ବୁଝାଏ କାହିଁକି କିଛି ବସ୍ତୁ ଜଳରେ ତଳିଯାଏ ଓ କିଛି ଭାସିଯାଏ। ଅପେକ୍ଷା ଘନତ୍ୱ ୧ କିମ୍ବା ତାହାଠାରୁ କମ୍ ଥିଲେ ବସ୍ତୁ ଜଳରେ ଭାସିଥାଏ।",
+      "source_ref": "ch01 §1.3",
+      "glossary_refs": [
+        "relative density",
+        "water",
+        "float"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch01_c0003_01",
+      "concept_id": "c0003",
+      "ordinal": 1,
+      "text_or": "ଉତ୍ତାପ୍ତ ବଢ଼ିବା ସହିତ କଠିନ ପଦାର୍ଥ ତରଳରେ ପରିଣତ ହୁଏ — ଏହା ଉତ୍ତାପ୍ତ (fusion) ବା ସ୍ମୃତିଗଲ (melting) ଅଟେ। ଯେଉଁ ତାପମାନରେ କଠିନ ପଦାର୍ଥ ତରଳକୁ ପରିଣତ ହୁଏ ତାହାକୁ ସ୍ମୃତିବିନ୍ଦୁ (melting point) କୁହାଯାଏ। ତରଳ ପଦାର୍ଥକୁ ଉତ୍ତାପ୍ତ କଲେ ସେ ଗ୍ୟାସକୁ ପରିଣତ ହୁଏ — ଏହା ବାଷ୍ପୀକରଣ (vaporization) ଅଟେ। ଯେଉଁ ତାପମାନରେ ତରଳ ବାଷ୍ପକୁ ପରିଣତ ହୁଏ ତାହାକୁ ସ୍ମୃତିବିନ୍ଦୁ (boiling point) କୁହାଯାଏ।",
+      "source_ref": "ch01 §1.4",
+      "glossary_refs": [
+        "melting",
+        "vaporization",
+        "boiling point"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch01_c0003_02",
+      "concept_id": "c0003",
+      "ordinal": 2,
+      "text_or": "ଗ୍ୟାସକୁ ଥଣ୍ଡ କଲେ ସେ ତରଳକୁ ପରିଣତ ହୁଏ — ଏହା ଘନୀଭବନ (condensation) ଅଟେ। ତରଳକୁ ଥଣ୍ଡ କଲେ ସେ କଠିନ ହୁଏ — ଏହା ସ୍ମୃତିଗଳନ (freezing) ଅଟେ। କଠିନ ପଦାର୍ଥ ସିଧାସଳି ଗ୍ୟାସକୁ ପରିଣତ ହେବା ପ୍ରକ୍ରିୟାକୁ ଉନ୍ନତ (sublimation) କୁହାଯାଏ। ଏହି ସବୁ ପରିବର୍ତ୍ତନ ଉଭୟଦିଗରେ ଘଟଣ ସମ୍ଭାବନା ଅଛି — ବାଷ୍ପୀକରଣ ଓ ଘନୀଭବନ, ସ୍ମୃତିଗଲ ଓ ସ୍ମୃତିଗଳନ, ଉନ୍ନତ ଓ ଆଡ଼ମ୍ବ (deposition)। ଏହି ପରିବର୍ତ୍ତନ ଗୁଡ଼ିକ ଶକ୍ତି ଆଦାନ-ବିନିମୟ ସହିତ ସମ୍ପର୍କିତ।",
+      "source_ref": "ch01 §1.4",
+      "glossary_refs": [
+        "condensation",
+        "freezing",
+        "sublimation"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "q_ch01_c0001_01",
+      "concept_id": "c0001",
+      "qtype": "mcq",
+      "prompt_or": "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି କଠିନ ପଦାର୍ଥର ଗୁଣ?",
+      "options": [
+        "ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନାହିଁ",
+        "ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ ନାହିଁ",
+        "ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ଓ ଆୟତନ ଅଛି",
+        "କୌଣସି ନିର୍ଦ୍ଦିଷ୍ଟ ଗୁଣ ନାହିଁ"
+      ],
+      "correct_option": 2,
+      "explanation_or": "କଠିନ ପଦାର୍ଥର ଆକାର ଓ ଆୟତନ ଉଭୟ ନିର୍ଦ୍ଦିଷ୍ଟ ଥାଏ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.2"
+    },
+    {
+      "question_id": "q_ch01_c0001_02",
+      "concept_id": "c0001",
+      "qtype": "mcq",
+      "prompt_or": "ଗ୍ୟାସ କଣିକାଙ୍କ ମଧ୍ୟରେ କେଉଁ ପ୍ରକାରର ବଳ ପ୍ରବଳ ଥାଏ?",
+      "options": [
+        "ଆକର୍ଷଣ ବଳ ବହୁତ ପ୍ରବଳ",
+        "ଆକର୍ଷଣ ବଳ କମ୍",
+        "କୌଣସି ବଳ ନାହିଁ",
+        "ବିକର୍ଷଣ ବଳ ପ୍ରବଳ"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ଗ୍ୟାସରେ କଣିକା ଦୂରରେ ଥାଆନ୍ତି, ତେଣୁ ଆକର୍ଷଣ ବଳ କମ୍ ଥାଏ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.2"
+    },
+    {
+      "question_id": "q_ch01_c0001_03",
+      "concept_id": "c0001",
+      "qtype": "short_answer",
+      "prompt_or": "କଠିନ, ତରଳ ଏବଂ ଗ୍ୟାସର ଦୁଇଟି ମୁଖ୍ୟ ପାର୍ଥକ୍ୟ ଲେଖ।",
+      "rubric_or": "ଆକାର (shape) ଏବଂ ଆୟତନ (volume) ଉଭୟ ଉଲ୍ଲେଖନୀୟ।",
+      "expected_concepts": [
+        "shape",
+        "volume",
+        "solid",
+        "liquid",
+        "gas"
+      ],
+      "explanation_or": "କଠିନର ଆକାର ଓ ଆୟତନ ନିର୍ଦ୍ଦିଷ୍ଟ; ତରଳର କେବଳ ଆୟତନ ନିର୍ଦ୍ଦିଷ୍ଟ; ଗ୍ୟାସର କିଛି ନିର୍ଦ୍ଦିଷ୍ଟ ନୁହେଁ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.2"
+    },
+    {
+      "question_id": "q_ch01_c0002_01",
+      "concept_id": "c0002",
+      "qtype": "mcq",
+      "prompt_or": "ଘନତ୍ୱର ସୂତ୍ର କଣ?",
+      "options": [
+        "ଘନତ୍ୱ = ଭର × ଆୟତନ",
+        "ଘନତ୍ୱ = ଭର / ଆୟତନ",
+        "ଘନତ୍ୱ = ଆୟତନ / ଭର",
+        "ଘନତ୍ୱ = ଭର + ଆୟତନ"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ଘନତ୍ୱ ହେଉଛି ଭର ଓ ଆୟତନର ଅନୁପାତ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.3"
+    },
+    {
+      "question_id": "q_ch01_c0002_02",
+      "concept_id": "c0002",
+      "qtype": "mcq",
+      "prompt_or": "ଅପେକ୍ଷା ଘନତ୍ୱ ୨.୦ ଥିବା ବସ୍ତୁ ଜଳରେ କଣ କରିବ?",
+      "options": [
+        "ତଳିଯିବ",
+        "ଭାସିବ",
+        "ଦ୍ରବୀଭବନ ହେବ",
+        "କିଛି ହେବନାହିଁ"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ଅପେକ୍ଷା ଘନତ୍ୱ ୨.୦ ଥିଲେ ବସ୍ତୁ ଜଳରେ ଭାସିବ।",
+      "difficulty": "medium",
+      "misconception_tag": "relative_density_float",
+      "source_ref": "ch01 §1.3"
+    },
+    {
+      "question_id": "q_ch01_c0002_03",
+      "concept_id": "c0002",
+      "qtype": "short_answer",
+      "prompt_or": "ଅପେକ୍ଷା ଘନତ୍ୱର ପରିଭାଷା ଲେଖ।",
+      "rubric_or": "ପଦାର୍ଥ ଘନତ୍ୱ ଓ ଜଳ ଘନତ୍ୱର ଅନୁପାତ; ଏକକ ନାହିଁ।",
+      "expected_concepts": [
+        "relative density",
+        "water",
+        "ratio"
+      ],
+      "explanation_or": "ଅପେକ୍ଷା ଘନତ୍ୱ ହେଉଛି ପଦାର୍ଥ ଘନତ୍ୱ ଓ ଜଳ ଘନତ୍ୱର ଅନୁପାତ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.3"
+    },
+    {
+      "question_id": "q_ch01_c0003_01",
+      "concept_id": "c0003",
+      "qtype": "mcq",
+      "prompt_or": "କଠିନ ପଦାର୍ଥ ତରଳକୁ ପରିଣତ ହେବା ପ୍ରକ୍ରିୟାକୁ କଣ କୁହାଯାଏ?",
+      "options": [
+        "ବାଷ୍ପୀକରଣ",
+        "ଘନୀଭବନ",
+        "ସ୍ମୃତିଗଲ",
+        "ଉନ୍ନତ"
+      ],
+      "correct_option": 2,
+      "explanation_or": "କଠିନରୁ ତରଳକୁ ପରିବର୍ତ୍ତନକୁ ସ୍ମୃତିଗଲ (melting) କୁହାଯାଏ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.4"
+    },
+    {
+      "question_id": "q_ch01_c0003_02",
+      "concept_id": "c0003",
+      "qtype": "mcq",
+      "prompt_or": "ଗ୍ୟାସରୁ ତରଳକୁ ପରିବର୍ତ୍ତନକୁ କଣ କୁହାଯାଏ?",
+      "options": [
+        "ଘନୀଭବନ",
+        "ବାଷ୍ପୀକରଣ",
+        "ସ୍ମୃତିଗଳନ",
+        "ଉନ୍ନତ"
+      ],
+      "correct_option": 0,
+      "explanation_or": "ଗ୍ୟାସ ତରଳ ହେବାକୁ ଘନୀଭବନ କୁହାଯାଏ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.4"
+    },
+    {
+      "question_id": "q_ch01_c0003_03",
+      "concept_id": "c0003",
+      "qtype": "short_answer",
+      "prompt_or": "ଉନ୍ନତ (sublimation) କଣ? ଗୋଟିଏ ଉଦାହରଣ ଦେବା।",
+      "rubric_or": "କଠିନରୁ ସିଧା ଗ୍ୟାସ — ନାଫଥାଲିନ୍ (naphthalene) ବା କାମ୍ଫର (camphor)।",
+      "expected_concepts": [
+        "sublimation",
+        "solid",
+        "gas",
+        "naphthalene",
+        "camphor"
+      ],
+      "explanation_or": "କଠିନ ପଦାର୍ଥ ସିଧାସଳି ଗ୍ୟାସକୁ ପରିଣତ ହେବାକୁ ଉନ୍ନତ କୁହାଯାଏ। ଉଦାହରଣ: ନାଫଥାଲିନ୍।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.4"
+    },
+    {
+      "question_id": "q_ch001_c0001_ga1",
+      "concept_id": "c0001",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ ହେଉଛି ସେତେ ସବୁ ଯାହାର ଗୁଣ ଅଛି ଏବଂ ଯାହା ଆମକୁ ଅନୁଭବ ହୋଇପାରେ।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ବା ଆୟତନ ନୁହେଁ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+        "____ — କଠିନ ପଦାର୍ଥ ସିଧା ଗ୍ୟାସକୁ ପରିବର୍ତ୍ତନ।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ପଦାର୍ଥ (matter): ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch001_c0001_ga2",
+      "concept_id": "c0001",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ଆମ ଚାରିପଟ୍ରରେ ଥିବା ପ୍ରତ୍ୟେକ ବସ୍ତୁ — ପଥର, ପାଣି, ବାୟୁ — ____ର ଉଦାହରଣ।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ବା ଆୟତନ ନୁହେଁ।",
+        "____ — କଠିନ ପଦାର୍ଥ ସିଧା ଗ୍ୟାସକୁ ପରିବର୍ତ୍ତନ।"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ପଦାର୍ଥ (matter): ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch001_c0002_ga1",
+      "concept_id": "c0002",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ର ଏସଆଇ ଏକକ ହେଉଛି କିଲୋଗ୍ରାମ ପ୍ରତି ଘନ ମିଟର (kg/m³)।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ବା ଆୟତନ ନୁହେଁ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଏକକ ଆୟତନରେ ଥିବା ପଦାର୍ଥଙ୍କ ପରିମାଣ।",
+        "____ — କଠିନ ପଦାର୍ଥ ତରଳ ପଦାର୍ଥକୁ ପରିବର୍ତ୍ତନ।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ଘନତ୍ୱ (density): ଏକକ ଆୟତନରେ ଥିବା ପଦାର୍ଥଙ୍କ ପରିମାଣ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch01 §1.3 (draft: auto-cloze)"
+    }
+  ]
+}

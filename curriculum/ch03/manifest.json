@@ -1,0 +1,441 @@
+{
+  "chapter_id": "ch003",
+  "subject": "science",
+  "grade": "class9",
+  "title_or": "ଟିସ୍ୟୁ - ଜୀବ ମୂଳ ଗଠନ",
+  "title_en": "Tissues - Living Organisms",
+  "summary_or": "ଟିସ୍ୟୁ ହେଉଛି ସମାନ କାର୍ଯ୍ୟ କରୁଥିବା କୋଷ ଗୋଷ୍ଠୀ।",
+  "source_refs": [
+    "NCERT Class 9 Science Chapter 6 (Odia summary, original notes aligned to syllabus)"
+  ],
+  "concepts": [
+    {
+      "concept_id": "c0007",
+      "title_or": "ଟିସ୍ୟୁ ଓ ଏହାର ପ୍ରକାର",
+      "title_en": "Tissues and Types",
+      "summary_or": "ପ୍ରାଣୀ ଟିସ୍ୟୁ - ଉଦ୍ଭିଦ ଓ ପ୍ରାଣୀ।",
+      "prerequisites": [],
+      "source_refs": [
+        "ch03 §6.1"
+      ]
+    },
+    {
+      "concept_id": "c0008",
+      "title_or": "ଉଦ୍ଭିଦ ଟିସ୍ୟୁ",
+      "title_en": "Plant Tissues",
+      "summary_or": "ମେରିସ୍ଥେମାଟିକ, ପାରେନକାଇମା, କମ୍ପ୍ଲେକ୍ସ ଓ ପେରାଙ୍କାଇମା।",
+      "prerequisites": [
+        "c0007"
+      ],
+      "source_refs": [
+        "ch03 §6.2"
+      ]
+    },
+    {
+      "concept_id": "c0009",
+      "title_or": "ପ୍ରାଣୀ ଟିସ୍ୟୁ",
+      "title_en": "Animal Tissues",
+      "summary_or": "ଏପିଥିଲିଆଲ, ସଂଯୋଜକ, ମାଂସପେଶୀ ଓ ସ୍ନାୟୁ ଟିସ୍ୟୁ।",
+      "prerequisites": [
+        "c0008"
+      ],
+      "source_refs": [
+        "ch03 §6.3"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "chunk_ch03_c0007_01",
+      "concept_id": "c0007",
+      "ordinal": 1,
+      "text_or": "ଟିସ୍ୟୁ ହେଉଛି ସମାନ କାର୍ଯ୍ୟ ଓ ଉତ୍ପାଦନ କରୁଥିବା କୋଷମାନଙ୍କର ଗୋଷ୍ଠୀ। ଗୋଟିଏ କୋଷ ହେଉଛି ଜୀବର ସାମାନ୍ୟ ଏକକ। କୋଷ ବିଭାଜନ ହେବାରୁ ନୂଆ କୋଷ ସୃଷ୍ଟି ହୁଏ ଏବଂ ସେମାନେ ଏକାଠି ମିଶ୍ରଣ କରି ଟିସ୍ୟୁ ତିଆର କରନ୍ତି। ଟିସ୍ୟୁ ମୁଖ୍ୟ 2 ପ୍ରକାର - ଉଦ୍ଭିଦ ଟିସ୍ୟୁ ଏବଂ ପ୍ରାଣୀ ଟିସ୍ୟୁ। ଉଦ୍ଭିଦ ଟିସ୍ୟୁ ମଧ୍ୟରେ ମେରିସ୍ଥେମାଟିକ (meristematic) ଓ ସ୍ଥାୟୀ (permanent) ଟିସ୍ୟୁ ଅଛି। ପ୍ରାଣୀ ଟିସ୍ୟୁ ମଧ୍ୟରେ ଏପିଥିଲିଆଲ, ସଂଯୋଜକ, ମାଂସପେଶୀ ଓ ସ୍ନାୟୁ ଟିସ୍ୟୁ ଅଛି।",
+      "source_ref": "ch03 §6.1",
+      "glossary_refs": [
+        "tissue",
+        "cell",
+        "meristematic",
+        "permanent"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch03_c0007_02",
+      "concept_id": "c0007",
+      "ordinal": 2,
+      "text_or": "ଟିସ୍ୟୁ ତିଆରିବାକୁ ହିଷ୍ଟୋଜେନେସିସ (histogenesis) କୁହାଯାଏ। ଉଦ୍ଭିଦ ଓ ପ୍ରାଣୀ ଟିସ୍ୟୁ ମଧ୍ୟରେ ମୁଖ୍ୟ ପାର୍ଥକ୍ୟ ହେଲା — ଉଦ୍ଭିଦ କୋଷ ମଧ୍ୟରେ କୋଷ ବିଭାଜନ ବହୁତ ଅଛି ଓ ବୃଦ୍ଧି ସୀମିତ ନୁହେଁ, କିନ୍ତୁ ପ୍ରାଣୀ କୋଷରେ ବିଭାଜନ କମ, ବୃଦ୍ଧି ନିର୍ଦ୍ଦିଷ୍ଟ ସମୟ ପରେ ବନ୍ଦ ହୋଇଯାଏ। ଉଦ୍ଭିଦ ଟିସ୍ୟୁରେ କୋଷ କାଠି ମୃତ ହୋଇପାରେ ଓ ତାହା କାର୍ଯ୍ୟ କରିପାରେ (ଯେପରି ଜାଇଲମ), କିନ୍ତୁ ପ୍ରାଣୀ ଟିସ୍ୟୁରେ ତାହା ନୁହେଁ।",
+      "source_ref": "ch03 §6.1",
+      "glossary_refs": [
+        "histogenesis",
+        "meristematic",
+        "differentiation"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch03_c0008_01",
+      "concept_id": "c0008",
+      "ordinal": 1,
+      "text_or": "ମେରିସ୍ଥେମାଟିକ ଟିସ୍ୟୁ (meristematic tissue) ହେଉଛି ସକ୍ରିୟ ବିଭାଜନଶୀଳ କୋଷମାନଙ୍କର ଗୋଷ୍ଠୀ। ସେମାନେ ଗଛ ବୃଦ୍ଧିର ମୁଖ୍ୟ ସ୍ଥାନ — ଆଗରୁଣ (apical), ଇଣ୍ଟରକ୍ୟାଲାରି (intercalary), ଏବଂ ପାର୍ଶ୍ୱ (lateral) ମେରିସ୍ଥେମ। ସ୍ଥାୟୀ ଟିସ୍ୟୁ (permanent tissue) ହେଉଛି ବିଭାଜନ ଶକ୍ତ ହୋଇଥିବା କୋଷ — ସେମାନେ କୋଷ ବିଭାଜନ ହରାଇଛନ୍ତି କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ କାର୍ଯ୍ୟ କରନ୍ତି। ସ୍ଥାୟୀ ଟିସ୍ୟୁ ସାଧାରଣ (simple) ଏବଂ ଯୌଗିକ (complex) ଭାବରେ ବିଭକ୍ତ — ପାରେନକାଇମା (parenchyma), କୋଲେନକାଇମା (collenchyma), ସ୍କ୍ଲେରେନକାଇମା (sclerenchyma) ସାଧାରଣ; ଜାଇଲମ (xylem) ଏବଂ ଫ୍ଲୋଏମ (phloem) ଯୌଗିକ।",
+      "source_ref": "ch03 §6.2",
+      "glossary_refs": [
+        "meristematic",
+        "parenchyma",
+        "collenchyma",
+        "sclerenchyma",
+        "xylem",
+        "phloem"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch03_c0008_02",
+      "concept_id": "c0008",
+      "ordinal": 2,
+      "text_or": "ପାରେନକାଇମା ହେଉଛି ସର୍ବାବିଧ ଉଦ୍ଭିଦ ଟିସ୍ୟୁ — କୋଷ ପତଳା କାନ୍ଥ ବିଶିଷ୍ଟ, ବାକ୍ୱ୍ୟୁଅଲ କୋଏନ (vacuole) ବଡ଼। କୋଲେନକାଇମା କୋଷ କାନ୍ଥ ମୋଟା, ମଣ୍ଡିଆଲରେ ପେକ୍ଟିନ ଜମା — ଏହା ଯୁବ ବୃଦ୍ଧିରେ ସହାୟକ। ସ୍କ୍ଲେରେନକାଇମା କୋଷ ମୃତ, କାଠି, ଲିଗ୍ନିନ (lignin) ଭର୍ତ୍ତି — ଯାହା ଯାନ୍ତ୍ରିକ ସହାୟତା ଦେଇଥାଏ। ଜାଇଲମ ପାଣି ଓ ଖଣିଜ ପରିବହନ କରେ (ଉର୍ଧ୍ୱମୁଖୀ)। ଫ୍ଲୋଏମ ଖାଦ୍ୟ ପଦାର୍ଥ ପରିବହନ କରେ (ଅଧୋମୁଖୀ)।",
+      "source_ref": "ch03 §6.2",
+      "glossary_refs": [
+        "parenchyma",
+        "collenchyma",
+        "sclerenchyma",
+        "xylem",
+        "phloem"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch03_c0009_01",
+      "concept_id": "c0009",
+      "ordinal": 1,
+      "text_or": "ଏପିଥିଲିଆଲ ଟିସ୍ୟୁ (epithelial tissue) ହେଉଛି ଶରୀର ପୃଷ୍ଠଭାଗ ଓ ଅଙ୍ଗ ଗହ୍ୱର ଆସ୍ତରଣ — କୋଷ ନିବିଡ଼, ବସ୍ତୁ ବିନିମୟ ଓ ସୁରକ୍ଷା କାର୍ଯ୍ୟ କରେ। ସଂଯୋଜକ ଟିସ୍ୟୁ (connective tissue) ଅଙ୍ଗ ସଂଯୋଗ କରେ — ଉଦାହରଣ ସ୍ୱରୂପ, ଅସ୍ଥି, ତରୁଣ, ରକ୍ତ। ମାଂସପେଶୀ ଟିସ୍ୟୁ (muscular tissue) ସଙ୍କୋଚନଶୀଳ — ଅନିଚ୍ଛାଗତ, ହୃଦବେଶୀ, ଐଚ୍ଛିକ ମାଂସପେଶୀ ଭାବରେ ତିନି ପ୍ରକାର। ସ୍ନାୟୁ ଟିସ୍ୟୁ (nervous tissue) ଶରୀରର ସୂଚନା ପ୍ରେରଣ କାର୍ଯ୍ୟ କରେ — ନିଉରନ (neuron)ା ସ୍ନାୟୁ କୋଷ ତାହାର ମୁଖ୍ୟ ଏକକ।",
+      "source_ref": "ch03 §6.3",
+      "glossary_refs": [
+        "epithelial",
+        "connective",
+        "muscular",
+        "nervous",
+        "neuron"
+      ]
+    },
+    {
+      "chunk_id": "chunk_ch03_c0009_02",
+      "concept_id": "c0009",
+      "ordinal": 2,
+      "text_or": "ନିଉରନର (neuron) ମୁଖ୍ୟ ଅଂଶ — କୋଷକାୟ (cell body), ଡେଣ୍ଡ୍ରାଇଟ (dendrite), ଓ ଆକ୍ସନ (axon)। ଡେଣ୍ଡ୍ରାଇଟ ସୂଚନା ଗ୍ରହଣ କରେ, ଆକ୍ସନ ସୂଚନା ପ୍ରେରଣ କରେ। ସ୍ନାୟୁ ଟିସ୍ୟୁ ମସ୍ତିଷ୍କ, ମେରୁଦଣ୍ଡ ଓ ସ୍ନାୟୁରେ ମିଳେ। ଏପିଥିଲିଆଲ ଟିସ୍ୟୁ ଆବରଣାତ୍ମକ — କୋଷ ଗୋଷ୍ଠୀ ଏକ ବାସାଳୟରେ (basement membrane) ସଂଯୁକ୍ତ ଥାଏ। ସଂଯୋଜକ ଟିସ୍ୟୁ ମଧ୍ୟରେ ତରଳ ମାଧ୍ୟମ (matrix) ଅଧିକ ଥାଏ, କୋଷ କମ।",
+      "source_ref": "ch03 §6.3",
+      "glossary_refs": [
+        "neuron",
+        "dendrite",
+        "axon",
+        "basement membrane",
+        "matrix"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "q_ch03_c0007_01",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଟିସ୍ୟୁ ହେଉଛି —",
+      "options": [
+        "ଭିନ୍ନ କାର୍ଯ୍ୟରତ କୋଷ ଗୋଷ୍ଠୀ",
+        "ସମାନ କାର୍ଯ୍ୟରତ କୋଷ ଗୋଷ୍ଠୀ",
+        "କେବଳ ମୃତ କୋଷ",
+        "କେବଳ ଜୀବ କୋଷ"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ଟିସ୍ୟୁ ହେଉଛି ସମାନ କାର୍ଯ୍ୟରତ କୋଷ ଗୋଷ୍ଠୀ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1"
+    },
+    {
+      "question_id": "q_ch03_c0007_02",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଟିସ୍ୟୁର ମୁଖ୍ୟ ପ୍ରକାର ସଂଖ୍ୟା —",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_option": 0,
+      "explanation_or": "ଉଦ୍ଭିଦ ଓ ପ୍ରାଣୀ — 2 ମୁଖ୍ୟ ପ୍ରକାର।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1"
+    },
+    {
+      "question_id": "q_ch03_c0007_03",
+      "concept_id": "c0007",
+      "qtype": "short_answer",
+      "prompt_or": "ଉଦ୍ଭିଦ ଓ ପ୍ରାଣୀ ଟିସ୍ୟୁର ମୁଖ୍ୟ ପାର୍ଥକ୍ୟ ଲେଖ।",
+      "rubric_or": "ଉଦ୍ଭିଦ କୋଷ ବିଭାଜନ ବହୁତ, ବୃଦ୍ଧି ସୀମିତ ନୁହେଁ, କୋଷ ମୃତ କାର୍ଯ୍ୟ କରିପାରେ।",
+      "expected_concepts": [
+        "cell division",
+        "growth",
+        "meristematic",
+        "differentiation"
+      ],
+      "explanation_or": "ଉଦ୍ଭିଦ ଟିସ୍ୟୁ କୋଷ ବିଭାଜନ ବହୁତ, ବୃଦ୍ଧି ସୀମିତ ନୁହେଁ; ପ୍ରାଣୀ ଟିସ୍ୟୁ କମ ବିଭାଜନ, ନିର୍ଦ୍ଦିଷ୍ଟ ସମୟରେ ବନ୍ଦ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1"
+    },
+    {
+      "question_id": "q_ch03_c0008_01",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "କେଉଁ ଟିସ୍ୟୁ ସକ୍ରିୟ ବିଭାଜନଶୀଳ?",
+      "options": [
+        "ପାରେନକାଇମା",
+        "ମେରିସ୍ଥେମାଟିକ",
+        "ସ୍କ୍ଲେରେନକାଇମା",
+        "କୋଲେନକାଇମା"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ମେରିସ୍ଥେମାଟିକ କୋଷ ସକ୍ରିୟ ବିଭାଜନ କରେ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2"
+    },
+    {
+      "question_id": "q_ch03_c0008_02",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "ଜାଇଲମର (xylem) ମୁଖ୍ୟ କାର୍ଯ୍ୟ —",
+      "options": [
+        "ଖାଦ୍ୟ ପରିବହନ",
+        "ପାଣି ପରିବହନ",
+        "ଯାନ୍ତ୍ରିକ ସହାୟତା",
+        "ସୂଚନା ପ୍ରେରଣ"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ଜାଇଲମ ପାଣି ଓ ଖଣିଜ ପରିବହନ କରେ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2"
+    },
+    {
+      "question_id": "q_ch03_c0008_03",
+      "concept_id": "c0008",
+      "qtype": "short_answer",
+      "prompt_or": "ପାରେନକାଇମା, କୋଲେନକାଇମା ଓ ସ୍କ୍ଲେରେନକାଇମା — ଏହାର ପାର୍ଥକ୍ୟ ଲେଖ।",
+      "rubric_or": "ପାରେନକାଇମା ପତଳା କାନ୍ଥ, କୋଲେନକାଇମା ପେକ୍ଟିନ କାନ୍ଥ, ସ୍କ୍ଲେରେନକାଇମା ଲିଗ୍ନିନ ମୃତ କୋଷ।",
+      "expected_concepts": [
+        "parenchyma",
+        "collenchyma",
+        "sclerenchyma",
+        "lignin",
+        "pectin"
+      ],
+      "explanation_or": "ପାରେନକାଇମା ସର୍ବାବିଧ; କୋଲେନକାଇମା ପେକ୍ଟିନ ଯୁକ୍ତ; ସ୍କ୍ଲେରେନକାଇମା ଲିଗ୍ନିନ ମୃତ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2"
+    },
+    {
+      "question_id": "q_ch03_c0009_01",
+      "concept_id": "c0009",
+      "qtype": "mcq",
+      "prompt_or": "ସ୍ନାୟୁ ଟିସ୍ୟୁର ମୁଖ୍ୟ କାର୍ଯ୍ୟ —",
+      "options": [
+        "ସଂଯୋଜନ",
+        "ସଙ୍କୋଚନ",
+        "ସୂଚନା ପ୍ରେରଣ",
+        "ଆବରଣ"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ସ୍ନାୟୁ ଟିସ୍ୟୁ ସୂଚନା ପ୍ରେରଣ କରେ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.3"
+    },
+    {
+      "question_id": "q_ch03_c0009_02",
+      "concept_id": "c0009",
+      "qtype": "mcq",
+      "prompt_or": "ନିଉରନର ଅଂଶ ନୁହେଁ —",
+      "options": [
+        "କୋଷକାୟ",
+        "ଡେଣ୍ଡ୍ରାଇଟ",
+        "ଆକ୍ସନ",
+        "ମାଟ୍ରିକ୍ସ"
+      ],
+      "correct_option": 3,
+      "explanation_or": "ମାଟ୍ରିକ୍ସ ସଂଯୋଜକ ଟିସ୍ୟୁର ଅଂଶ, ନିଉରନର ନୁହେଁ।",
+      "difficulty": "medium",
+      "misconception_tag": "neuron_vs_matrix",
+      "source_ref": "ch03 §6.3"
+    },
+    {
+      "question_id": "q_ch03_c0009_03",
+      "concept_id": "c0009",
+      "qtype": "short_answer",
+      "prompt_or": "ମାଂସପେଶୀ ଟିସ୍ୟୁର ପ୍ରକାର ଲେଖ।",
+      "rubric_or": "ଅନିଚ୍ଛାଗତ, ହୃଦବେଶୀ, ଐଚ୍ଛିକ — 3 ପ୍ରକାର।",
+      "expected_concepts": [
+        "smooth",
+        "cardiac",
+        "skeletal",
+        "voluntary",
+        "involuntary"
+      ],
+      "explanation_or": "ଅନିଚ୍ଛାଗତ (smooth), ହୃଦବେଶୀ (cardiac), ଐଚ୍ଛିକ (skeletal) — 3 ପ୍ରକାର ମାଂସପେଶୀ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.3"
+    },
+    {
+      "question_id": "q_ch003_c0007_ga1",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ ତିଆରିବାକୁ ହିଷ୍ଟୋଜେନେସିସ (histogenesis) କୁହାଯାଏ।",
+      "options": [
+        "____ — ଶରୀର ପୃଷ୍ଠଭାଗ ଆସ୍ତରଣ।",
+        "____ — ସ୍ନାୟୁ କୋଷ — କୋଷକାୟ, ଡେଣ୍ଡ୍ରାଇଟ, ଆକ୍ସନ।",
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ଟିସ୍ୟୁ (tissue): ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0007_ga2",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ ହେଉଛି ସମାନ କାର୍ଯ୍ୟ ଓ ଉତ୍ପାଦନ କରୁଥିବା କୋଷମାନଙ୍କର ଗୋଷ୍ଠୀ।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଲିଗ୍ନିନ ମୃତ କୋଷ।",
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ଟିସ୍ୟୁ (tissue): ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0007_ga3",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: କୋଷ ବିଭାଜନ ହେବାରୁ ନୂଆ କୋଷ ସୃଷ୍ଟି ହୁଏ ଏବଂ ସେମାନେ ଏକାଠି ମିଶ୍ରଣ କରି ____ ତିଆର କରନ୍ତି।",
+      "options": [
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+        "____ — ଅଙ୍ଗ ସଂଯୋଗ କରେ।"
+      ],
+      "correct_option": 0,
+      "explanation_or": "ଟିସ୍ୟୁ (tissue): ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+      "difficulty": "hard",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0007_ga4",
+      "concept_id": "c0007",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ଉଦ୍ଭିଦ ଓ ପ୍ରାଣୀ ____ ମଧ୍ୟରେ ମୁଖ୍ୟ ପାର୍ଥକ୍ୟ ହେଲା — ଉଦ୍ଭିଦ କୋଷ ମଧ୍ୟରେ କୋଷ ବିଭାଜନ ବହୁତ ଅଛି ଓ ବୃଦ୍ଧି ସୀମିତ ନୁହେଁ, କିନ୍ତୁ ପ୍ରାଣୀ କୋଷରେ ବିଭାଜନ କମ, ବୃଦ୍ଧି ନିର୍ଦ୍ଦିଷ୍ଟ ସମୟ ପରେ ବନ୍ଦ ହୋଇଯାଏ।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଖାଦ୍ୟ ପଦାର୍ଥ ପରିବହନ।",
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ଟିସ୍ୟୁ (tissue): ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+      "difficulty": "hard",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.1 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0008_ga1",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ ପାଣି ଓ ଖଣିଜ ପରିବହନ କରେ (ଉର୍ଧ୍ୱମୁଖୀ)।",
+      "options": [
+        "____ — ପେକ୍ଟିନ ମୋଟା କୋଷ।",
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ପାଣି ଓ ଖଣିଜ ପରିବହନ।"
+      ],
+      "correct_option": 3,
+      "explanation_or": "ଜାଇଲମ (xylem): ପାଣି ଓ ଖଣିଜ ପରିବହନ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0008_ga2",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ କୋଷ କାନ୍ଥ ମୋଟା, ମଣ୍ଡିଆଲରେ ପେକ୍ଟିନ ଜମା — ଏହା ଯୁବ ବୃଦ୍ଧିରେ ସହାୟକ।",
+      "options": [
+        "____ — ପେକ୍ଟିନ ମୋଟା କୋଷ।",
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ସଙ୍କୋଚନ ଶୀଳ।"
+      ],
+      "correct_option": 0,
+      "explanation_or": "କୋଲେନକାଇମା (collenchyma): ପେକ୍ଟିନ ମୋଟା କୋଷ।",
+      "difficulty": "medium",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0008_ga3",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ କୋଷ ମୃତ, କାଠି, ଲିଗ୍ନିନ (lignin) ଭର୍ତ୍ତି — ଯାହା ଯାନ୍ତ୍ରିକ ସହାୟତା ଦେଇଥାଏ।",
+      "options": [
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ଲିଗ୍ନିନ ମୃତ କୋଷ।",
+        "____ — ପେକ୍ଟିନ ମୋଟା କୋଷ।",
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।"
+      ],
+      "correct_option": 1,
+      "explanation_or": "ସ୍କ୍ଲେରେନକାଇମା (sclerenchyma): ଲିଗ୍ନିନ ମୃତ କୋଷ।",
+      "difficulty": "hard",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0008_ga4",
+      "concept_id": "c0008",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ସ୍ଥାୟୀ ____ (permanent tissue) ହେଉଛି ବିଭାଜନ ଶକ୍ତ ହୋଇଥିବା କୋଷ — ସେମାନେ କୋଷ ବିଭାଜନ ହରାଇଛନ୍ତି କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ କାର୍ଯ୍ୟ କରନ୍ତି।",
+      "options": [
+        "____ — ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ସ୍ନାୟୁ କୋଷ — କୋଷକାୟ, ଡେଣ୍ଡ୍ରାଇଟ, ଆକ୍ସନ।",
+        "____ — ପାଣି ଓ ଖଣିଜ ପରିବହନ।"
+      ],
+      "correct_option": 0,
+      "explanation_or": "ଟିସ୍ୟୁ (tissue): ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।",
+      "difficulty": "hard",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.2 (draft: auto-cloze)"
+    },
+    {
+      "question_id": "q_ch003_c0009_ga1",
+      "concept_id": "c0009",
+      "qtype": "mcq",
+      "prompt_or": "ଖାଲି ଜାଗା ପୂରଣ କର: ____ର (neuron) ମୁଖ୍ୟ ଅଂଶ — କୋଷକାୟ (cell body), ଡେଣ୍ଡ୍ରାଇଟ (dendrite), ଓ ଆକ୍ସନ (axon)।",
+      "options": [
+        "____ — ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।",
+        "____ — ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।",
+        "____ — ସ୍ନାୟୁ କୋଷ — କୋଷକାୟ, ଡେଣ୍ଡ୍ରାଇଟ, ଆକ୍ସନ।",
+        "____ — ସୂଚନା ପ୍ରେରଣ କାର୍ଯ୍ୟ।"
+      ],
+      "correct_option": 2,
+      "explanation_or": "ନିଉରନ (neuron): ସ୍ନାୟୁ କୋଷ — କୋଷକାୟ, ଡେଣ୍ଡ୍ରାଇଟ, ଆକ୍ସନ।",
+      "difficulty": "easy",
+      "misconception_tag": null,
+      "source_ref": "ch03 §6.3 (draft: auto-cloze)"
+    }
+  ]
+}

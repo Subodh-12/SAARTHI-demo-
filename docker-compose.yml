@@ -1,0 +1,41 @@
+# Optional production-parity services. NOT required for MVP — SQLite is the default.
+# Use only when you need PostgreSQL/MinIO parity testing.
+version: "3.8"
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: saarthi
+      POSTGRES_PASSWORD: saarthi
+      POSTGRES_DB: saarthi
+    ports:
+      - "5432:5432"
+    volumes:
+      - saarthi_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U saarthi -d saarthi"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: saarthi
+      MINIO_ROOT_PASSWORD: saarthi123
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - saarthi_minio:/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  saarthi_pg:
+  saarthi_minio:

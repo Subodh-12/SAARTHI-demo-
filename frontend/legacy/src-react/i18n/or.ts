@@ -1,0 +1,53 @@
+// Odia-first learner-facing strings. Developer errors stay English (in console).
+// No casual LLM translation of fixed educational terms.
+
+export const OR: Record<string, string> = {
+  app_name: "SAARTHI",
+  app_tagline: "ଶିଖ — ସାହାଯ୍ୟ — ଆଗେ଼",
+  nav_home: "ମୁଖ୍ୟ",
+  nav_lesson: "ପାଠ",
+  nav_doubt: "ପ୍ରଶ୍ନ",
+  nav_packs: "ପ୍ୟାକ",
+  nav_dev: "ଡାକ",
+  home_next: "ଆଗକୁ ଯାଅ",
+  home_mastered: "ଶିଖିଲା",
+  home_attempts: "ଚେଷ୍ଟା",
+  home_outbox: "ସିଙ୍କ ବାକି",
+  state_online: "ଅନଲାଇନ",
+  state_offline: "ଅଫଲାଇନ",
+  state_weak: "ଦୁର୍ବଳ ସିଗ୍ନାଲ",
+  state_syncing: "ସିଙ୍କ ହେଉଛି…",
+  state_synced: "ସିଙ୍କ ସମ୍ପୂର୍ଣ",
+  state_failed: "ସିଙ୍କ ବିଫଳ",
+  state_storage_full: "ସ୍ଟୋରେଜ୍ ଫୁଲ୍",
+  create_profile: "ନୂଆ ଶିକ୍ଷାର୍ଥୀ ସୃଷ୍ଟି କରନ୍ତୁ",
+  label_name: "ନାମ (ବୈକଳପ୍ତିକ)",
+  label_pin: "PIN (ବୈକଳପ୍ତିକ)",
+  create: "ସୃଷ୍ଟି କରନ୍ତୁ",
+  switch_profile: "ଶିକ୍ଷାର୍ଥୀ ବଦଳାନ୍ତୁ",
+  lesson_read: "ପଢନ୍ତୁ",
+  lesson_done: "ଶେଷ",
+  quiz_submit: "ଦାଖଲ କରନ୍ତୁ",
+  quiz_correct: "ଠିକ ଅଛି! ଭଲ ହେଲା।",
+  quiz_incorrect: "ଆଉକୁ ଚେଷ୍ଟା କର।",
+  quiz_explanation: "ବ୍ୟାଖ୍ୟା",
+  doubt_placeholder: "ଆପଣଙ୍କ ପ୍ରଶ୍ନ ଏଠାରେ ଲେଖନ୍ତୁ (ଓଡ଼ିଆ)",
+  doubt_ask: "ପଚାରନ୍ତୁ",
+  doubt_citations: "ଉତ୍ସ",
+  doubt_out_of_lessons: "ଏହି ପ୍ରଶ୍ନ ଆମ ପାଠ୍ୟକ୍ରମରେ ନାହିଁ। ନିକଟତମ ଧାରଣା ଦେଖନ୍ତୁ।",
+  packs_download: "ଡାଉନଲୋଡ୍",
+  packs_installing: "ସ୍ଥାପନ ହେଉଛି…",
+  packs_installed: "ସ୍ଥାପିତ",
+  packs_not_installed: "ଡାଉନଲୋଡ୍ କରନ୍ତୁ",
+  dev_trace_title: "ଡିସିଜନ୍ ଟ୍ରେସ",
+  loading: "ଲୋଡ୍ ହେଉଛି…",
+  error_generic: "ତ୍ରୁଟି। ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।",
+  network_offline_banner: "ଅଫଲାଇନ — ଶିଖ ହେଉଛି, ଡାଟା ସିଙ୍କ ହେବ ଯେବେ ସିଗ୍ନାଲ ଆସିବ।",
+  back: "ପଛକୁ ଯାଅ",
+  empty: "କିଛି ନାହିଁ",
+  retry: "ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ",
+};
+
+export function t(key: keyof typeof OR): string {
+  return OR[key] ?? key;
+}

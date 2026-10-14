@@ -1,0 +1,36 @@
+{
+  "glossary": [
+    {"term_or": "ପଦାର୍ଥ", "term_en": "matter", "definition_or": "ଯାହା ସବୁ ସ୍ଥାନ ଅଣାଅଛି ଓ ଭାର ଅଛି।", "definition_en": "Anything that has mass and occupies space."},
+    {"term_or": "କଠିନ", "term_en": "solid", "definition_or": "ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ଓ ଆୟତନ।", "definition_en": "State of matter with fixed shape and volume."},
+    {"term_or": "ତରଳ", "term_en": "liquid", "definition_or": "ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆୟତନ କିନ୍ତୁ ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ନୁହେଁ।", "definition_en": "State of matter with fixed volume but no fixed shape."},
+    {"term_or": "ଗ୍ୟାସ", "term_en": "gas", "definition_or": "ପଦାର୍ଥର ସ୍ଥିତି — ନିର୍ଦ୍ଦିଷ୍ଟ ଆକାର ବା ଆୟତନ ନୁହେଁ।", "definition_en": "State of matter with no fixed shape or volume."},
+    {"term_or": "ଘନତ୍ୱ", "term_en": "density", "definition_or": "ଏକକ ଆୟତନରେ ଥିବା ପଦାର୍ଥଙ୍କ ପରିମାଣ।", "definition_en": "Mass per unit volume."},
+    {"term_or": "ଅପେକ୍ଷା ଘନତ୍ୱ", "term_en": "relative density", "definition_or": "ପଦାର୍ଥ ଘନତ୍ୱ ଓ ଜଳ ଘନତ୍ୱର ଅନୁପାତ।", "definition_en": "Ratio of density of substance to density of water."},
+    {"term_or": "ଉତ୍ତାପ୍ତ", "term_en": "melting", "definition_or": "କଠିନ ପଦାର୍ଥ ତରଳ ପଦାର୍ଥକୁ ପରିବର୍ତ୍ତନ।", "definition_en": "Change of state from solid to liquid."},
+    {"term_or": "ବାଷ୍ପୀକରଣ", "term_en": "vaporization", "definition_or": "ତରଳ ପଦାର୍ଥ ଗ୍ୟାସକୁ ପରିବର୍ତ୍ତନ।", "definition_en": "Change of state from liquid to gas."},
+    {"term_or": "ସ୍ମଃତିବିନ୍ଦୁ", "term_en": "melting point", "definition_or": "ତାପମାନ ଯେଉଁ କଠିନ ତରଳ ହୁଏ।", "definition_en": "Temperature at which a solid melts."},
+    {"term_or": "ସ୍ମଃତିବିନ୍ଦୁ", "term_en": "boiling point", "definition_or": "ତାପମାନ ଯେଉଁ ତରଳ ବାଷ୍ପ ହୁଏ।", "definition_en": "Temperature at which a liquid boils."},
+    {"term_or": "ଘନୀଭବନ", "term_en": "condensation", "definition_or": "ଗ୍ୟାସ ତରଳ ପଦାର୍ଥକୁ ପରିବର୍ତ୍ତନ।", "definition_en": "Change of state from gas to liquid."},
+    {"term_or": "ସ୍ମଃତିଗଳନ", "term_en": "freezing", "definition_or": "ତରଳ ପଦାର୍ଥ କଠିନ ପଦାର୍ଥକୁ ପରିବର୍ତ୍ତନ।", "definition_en": "Change of state from liquid to solid."},
+    {"term_or": "ଉନ୍ନତ", "term_en": "sublimation", "definition_or": "କଠିନ ପଦାର୍ଥ ସିଧା ଗ୍ୟାସକୁ ପରିବର୍ତ୍ତନ।", "definition_en": "Direct change from solid to gas."},
+
+    {"term_or": "ଗତି", "term_en": "motion", "definition_or": "ବସ୍ତୁର ସ୍ଥାନ ସମୟ ସହ ପରିବର୍ତ୍ତନ।", "definition_en": "Change of position with time."},
+    {"term_or": "ବିସ୍ଥାପନ", "term_en": "displacement", "definition_or": "ଆରମ୍ଭ ଓ ଶେଷ ସ୍ଥାନ ମଧ୍ୟରେ ସିଧା ଦୂରତା।", "definition_en": "Shortest distance between initial and final position."},
+    {"term_or": "ବେଗ", "term_en": "speed", "definition_or": "ଏକକ ସମୟରେ ଅତିକ୍ରମ କରାଯାଇଥିବା ଦୂରତା।", "definition_en": "Distance covered per unit time."},
+    {"term_or": "ବେଗତା", "term_en": "velocity", "definition_or": "ଏକକ ସମୟରେ ବିସ୍ଥାପନ — ମାନ+ଦିଗ।", "definition_en": "Displacement per unit time (vector)."},
+    {"term_or": "ତ୍ୱରଣ", "term_en": "acceleration", "definition_or": "ବେଗତାର ପରିବର୍ତ୍ତନ ହାର।", "definition_en": "Rate of change of velocity."},
+
+    {"term_or": "ଟିସ୍ୟୁ", "term_en": "tissue", "definition_or": "ସମାନ କାର୍ଯ୍ୟରତ କୋଷମାନଙ୍କ ଗୋଷ୍ଠୀ।", "definition_en": "Group of cells with similar function."},
+    {"term_or": "ମେରିସ୍ଥେମାଟିକ", "term_en": "meristematic", "definition_or": "ସକ୍ରିୟ ବିଭାଜନଶୀଳ କୋଷ।", "definition_en": "Actively dividing plant cells."},
+    {"term_or": "ପାରେନକାଇମା", "term_en": "parenchyma", "definition_or": "ସର୍ବାବିଧ ଉଦ୍ଭିଦ ଟିସ୍ୟୁ।", "definition_en": "Simple permanent plant tissue with thin walls."},
+    {"term_or": "କୋଲେନକାଇମା", "term_en": "collenchyma", "definition_en": "Plant tissue with pectin thickening.", "definition_or": "ପେକ୍ଟିନ ମୋଟା କୋଷ।"},
+    {"term_or": "ସ୍କ୍ଲେରେନକାଇମା", "term_en": "sclerenchyma", "definition_en": "Plant tissue with lignin thickening.", "definition_or": "ଲିଗ୍ନିନ ମୃତ କୋଷ।"},
+    {"term_or": "ଜାଇଲମ", "term_en": "xylem", "definition_or": "ପାଣି ଓ ଖଣିଜ ପରିବହନ।", "definition_en": "Conducts water and minerals in plants."},
+    {"term_or": "ଫ୍ଲୋଏମ", "term_en": "phloem", "definition_or": "ଖାଦ୍ୟ ପଦାର୍ଥ ପରିବହନ।", "definition_en": "Conducts food in plants."},
+    {"term_or": "ଏପିଥିଲିଆଲ", "term_en": "epithelial", "definition_or": "ଶରୀର ପୃଷ୍ଠଭାଗ ଆସ୍ତରଣ।", "definition_en": "Covers body surfaces and lines cavities."},
+    {"term_or": "ସଂଯୋଜକ", "term_en": "connective", "definition_or": "ଅଙ୍ଗ ସଂଯୋଗ କରେ।", "definition_en": "Supports and connects body parts."},
+    {"term_or": "ମାଂସପେଶୀ", "term_en": "muscular", "definition_or": "ସଙ୍କୋଚନ ଶୀଳ।", "definition_en": "Contractile tissue causing movement."},
+    {"term_or": "ସ୍ନାୟୁ", "term_en": "nervous", "definition_or": "ସୂଚନା ପ୍ରେରଣ କାର୍ଯ୍ୟ।", "definition_en": "Transmits signals."},
+    {"term_or": "ନିଉରନ", "term_en": "neuron", "definition_or": "ସ୍ନାୟୁ କୋଷ — କୋଷକାୟ, ଡେଣ୍ଡ୍ରାଇଟ, ଆକ୍ସନ।", "definition_en": "Nerve cell with body, dendrite, axon."}
+  ]
+}
